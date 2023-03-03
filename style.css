@@ -28,6 +28,7 @@ p{
     text-align: left;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
+    width: 1000px;
 }
 
 ol{
@@ -39,10 +40,11 @@ ol{
 
 img{
     float: right;
-    width: ;
-    height: ;
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     border-style: dotted;
     border-color: rgb(255, 245, 108);
-    border-width: ;
+    border-width: 5px;
+    margin: 20px;
 }
